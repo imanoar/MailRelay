@@ -1,0 +1,6 @@
+{
+  "name": "MailRelay Sandbox",
+  "description": "Developer temporary email sandbox for custom domain routing, automated OTP/magic-link extraction, webhook dispatching, and REST API inbox testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
